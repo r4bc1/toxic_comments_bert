@@ -1,4 +1,7 @@
 # toxic_comments_bert
+
+## __Dataset is available here: https://www.kaggle.com/r4bc19/metinvest-test-task-toxic-comments__
+
 Toxic comments classification using BERT
 
 At the end of 2017 the platform shut down and made their ~2m comments from their platform available in
